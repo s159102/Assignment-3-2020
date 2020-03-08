@@ -2,7 +2,7 @@
 
 This is the template repository for the third assignment of Software Evolution 2019-2020. 
 This repo contains the dataset on which you should run your statistical analysis, and
-this readme contains the list of requirements your repository should satisfy. 
+this readme contains the list of requirements the repository you submit to Canvas should satisfy. 
 
 # Dataset
 
@@ -17,3 +17,11 @@ individual files can be found here:
 - [code_review_comments.csv](https://review.opendev.org/Documentation/json.html#message)
 - [code_review_approvals.csv](https://review.opendev.org/Documentation/json.html#approval)
 - [patch_set_files.csv](https://review.opendev.org/Documentation/json.html#file)
+
+# Submission requirements
+
+When handing in your project please ensure it satisfies the following requirements:
+
+- You should submit all code files required to process the input data and fit the models.
+- The total size of the .zip file you submit should *not* be larger than 5MB. This means 
+that you will not be able to include the raw source files in your submission. 
