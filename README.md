@@ -24,4 +24,5 @@ When handing in your project please ensure it satisfies the following requiremen
 
 - You should submit all code files required to process the input data and fit the models.
 - The total size of the .zip file you submit should *not* be larger than 5MB. This means 
-that you will not be able to include the raw source files in your submission. 
+that you will not be able to include the raw data files in the `./data` direcotry in your 
+submission. 
